@@ -1,6 +1,6 @@
-# accessible-md
+# ACCESSIBLE.md - Open Specification
 
-Accessibility references for AI systems.
+Open specification for AI-ready accessibility reference documents.
 
 ## What is this?
 
